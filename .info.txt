@@ -1,0 +1,12 @@
+git config --global user.name "Stormwolfplayz"
+git config --global user.email "aabrown05105@gmail.com"
+
+Update Github
+x=x=x=x=x=x=x=x
+git add .
+git commit -m "Add existing file"
+git push origin main
+
+Turn into exe
+x=x=x=x=x=x=x=x
+g++ main.cpp -o name.exe
